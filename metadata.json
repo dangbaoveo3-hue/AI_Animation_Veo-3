@@ -1,0 +1,5 @@
+{
+  "name": "AI Animation DEV by BaoDZ",
+  "description": "A tool to generate stunning video animations from text prompts and optional source images using the Gemini API. Bring your creative visions to life with AI-powered video synthesis.",
+  "requestFramePermissions": []
+}
